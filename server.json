@@ -1,0 +1,28 @@
+{
+    "produtos": [
+        
+        {
+            "id": 1,
+            "photo": "https://images-americanas.b2w.io/produtos/01/00/img/2970634/3/2970634397_1GG.jpg",
+            "name": "Xiaomi Poco M3",
+            "description": "4Gb Ram / 64Gb",
+            "price": 1099            
+        },
+
+        {
+            "id": 2,
+            "photo": "https://images-americanas.b2w.io/produtos/01/00/img/2970634/3/2970634397_1GG.jpg",
+            "name": "Xiaomi Poco M3",
+            "description": "4Gb Ram / 128Gb",
+            "price": 1299            
+        },
+
+        {
+            "id": 3,
+            "photo": "https://images-americanas.b2w.io/produtos/01/00/img/2970634/3/2970634397_1GG.jpg",
+            "name": "Xiaomi Poco M3",
+            "description": "6Gb Ram / 128Gb",
+            "price": 1599          
+        }
+    ]
+}
